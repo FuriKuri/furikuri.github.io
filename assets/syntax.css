@@ -1,18 +1,18 @@
 .highlight { font-size: 14px; }
 article > div.highlight pre { 
   padding: 5px 7px; margin: 10px 0; 
-  border: 1px solid #eee;
+  
   overflow: auto;
 }
 pre code { line-height: 1.5; }
-.hll { background-color: #ffffcc }
-.c { color: #999988; font-style: italic } /* Comment */
+.hll { background-color: #002b36 }
+.c { color: #586e75; font-style: italic } /* Comment */
 .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .k { color: #000000; font-weight: bold } /* Keyword */
 .o { color: #000000; font-weight: bold } /* Operator */
-.cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.cm { color: #586e75; font-style: italic } /* Comment.Multiline */
 .cp { color: #999999; font-weight: bold; font-style: italic } /* Comment.Preproc */
-.c1 { color: #999988; font-style: italic } /* Comment.Single */
+.c1 { color: #586e75; font-style: italic } /* Comment.Single */
 .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
 .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
 .ge { color: #000000; font-style: italic } /* Generic.Emph */
