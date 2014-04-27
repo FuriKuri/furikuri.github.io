@@ -2,9 +2,11 @@
   <div class="container">
     <nav>
       <a href="/" class="{% if page.url == '/' %} active{% endif %}">Home</a>
+      <a href="/projects" class="{% if page.url == '/projects/' %} active{% endif %}">Projects</a>
       <a href="/about" class="{% if page.url == '/about/' %} active{% endif %}">
       <span>About</span> Me
       </a>
+      <a href="/impressum" class="{% if page.url == '/impressum/' %} active{% endif %}">Impressum</a>
     </nav>
   </div>
 </header>
