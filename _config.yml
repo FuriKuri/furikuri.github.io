@@ -9,4 +9,3 @@ timezone:         Europe/Berlin
 paginate: 5
 gems:
   - jemoji
-  - jekyll-mentions

@@ -16,7 +16,7 @@ $ brew install springboot
 Für andere Plattformen findet ihr die Informationen auf der [GitHub-Seite](https://github.com/spring-projects/spring-boot).
 Nun wird ein Groovy-File names app.groovy erstellt mit folgendem Inhalt:
 
-```
+{% highlight groovy %}
 @Controller
 class ThisWillActuallyRun {
 
@@ -26,7 +26,7 @@ class ThisWillActuallyRun {
         return "Hello World!"
     }
 }
-```
+{% endhighlight %}
 
 Wenn nun mit Hilfe des Spring Boot CLI das Skript ausgeführt, kann, in diesem Fall eine einfache Webanwendung, unter [http://localhost:8080](http://localhost:8080) aufgerufen werden.
 
