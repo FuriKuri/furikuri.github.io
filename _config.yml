@@ -1,12 +1,11 @@
-title:            Mu-An Chiou - @muanchiou || @muan
-url:              http://muan.co
+title:            FuriKuri's Blog
+url:              http://furikuri.github.io
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
-google_analytics: UA-21332781-7
-timezone:         Europe/London
+timezone:         Europe/Berlin
 paginate: 5
 gems:
   - jemoji
