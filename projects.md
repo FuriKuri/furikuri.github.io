@@ -16,6 +16,8 @@ title: "Projects"
     My first project in Elixir. notes is a little command line tool to save notes.
   </li>
 
+  <hr/>
+
   <li class="post">
     <a href="https://github.com/FuriKuri/girlitz" class="post-link">
       <h2 class="post-title" title="girlitz">
@@ -28,6 +30,8 @@ title: "Projects"
     A web application to save your books. It's deployed on http://girlitz.herokuapp.com/.
   </li>
 
+  <hr/>
+
   <li class="post">
     <a href="https://github.com/FuriKuri/maze-server" class="post-link">
       <h2 class="post-title" title="maze-server">
@@ -39,6 +43,8 @@ title: "Projects"
     </a>
     A TCP-Server for a maze-solver game.
   </li>
+
+  <hr/>
 
   <li class="post">
     <a href="https://github.com/FuriKuri/aspgen" class="post-link">
