@@ -104,15 +104,17 @@ code {
   white-space: nowrap;
   color: #000; }
 
+pre, code {
+  font-family: 'Monaco', monospace;
+  color: #ffffff;
+  font-size: 13px;
+  padding: 3px 5px;
+  border-radius: 3px; }
+
 pre code {
   white-space: pre;
+  background-color: #002b36;
   background: transparent;
   border: 0;
   padding: 0; }
 
-pre, code {
-  font-family: 'Monaco', monospace;
-  background-color: #002b36;
-  font-size: 13px;
-  padding: 3px 5px;
-  border-radius: 3px; }
