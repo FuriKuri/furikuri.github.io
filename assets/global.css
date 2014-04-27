@@ -117,6 +117,10 @@ pre code {
   background: transparent;
   border: 0;
   padding: 0; }
+
 pre {
-  background-color: #122024;
+  background-color: #122024; }
+
+p code {
+  font-weight:bold;
 }
