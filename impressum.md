@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: "Impressum"
-cover: "https://sites.google.com/site/furidev/about.jpg"
 ---
 
 <article>

@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: "Projects"
-cover: "https://sites.google.com/site/furidev/projects.jpg"
 ---
 
 <section class="content ">
