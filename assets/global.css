@@ -112,8 +112,7 @@ pre code {
 
 pre, code {
   font-family: 'Monaco', monospace;
-  background-color: #fff;
-  border: 1px solid #DDDDDD;
+  background-color: #002b36;
   font-size: 13px;
   padding: 3px 5px;
   border-radius: 3px; }
