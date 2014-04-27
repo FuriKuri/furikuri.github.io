@@ -26,6 +26,7 @@ pre code { color: #93a1a1; }
 .gs { font-weight: bold } /* Generic.Strong */
 .gu { color: #cb4b16 } /* Generic.Subheading */
 .gt { color: #aa0000 } /* Generic.Traceback */
+.k { color: #859900 }
 .kc { color: #cb4b16; font-weight: bold } /* Keyword.Constant */
 .kd { color: #2aa198; font-weight: bold } /* Keyword.Declaration */
 .kn { color: #2aa198; font-weight: bold } /* Keyword.Namespace */
