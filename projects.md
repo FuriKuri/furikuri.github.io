@@ -21,7 +21,7 @@ title: "Projects"
   <li class="post">
     <a href="https://github.com/FuriKuri/girlitz" class="post-link">
       <h2 class="post-title" title="girlitz">
-        notes<br />
+        girlitz<br />
       </h2>
       <span class="meta">
         Node.JS
