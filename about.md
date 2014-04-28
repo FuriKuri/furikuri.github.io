@@ -13,3 +13,5 @@ Live in Cologne - Germany<br/>
 [Twitter](https://twitter.com/furikuri)<br/>
 
 [coderwall](https://coderwall.com/furikuri)
+
+[Blog feed](/feed.xml)
