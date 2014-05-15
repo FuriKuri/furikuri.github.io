@@ -20,11 +20,13 @@ public class ClassB {
 {% endhighlight %}
 
 Werden zwei Instanz erstellt, befinden diese sich natürlich im Speicher. Im Falle auf einer 64-bit Machine mit der JVM Option -XX:+UseCompressedOops (was bei vielen der Standard sein sollte) liegen beide Objekte in folgender Form im Speicher: 
+
 ```
 8 byte [mark]
 4 byte [klass pointer]
 x byte [fields]
 ```
+
 Für unseren Fall sind die 4 Byte vom Klassenpointer interessant. Dieser zeigt auf die Klassendefinition, in der die eigentliche Klasse beschrieben ist. Im Falle von einer Instanz vom Typ ClassA würde diesen 4 Byte auf die Speicheradresse zeigen, in der die Klasse ClassA beschrieben ist. Dort würde sowas stehen wie, Sichtbarkeit der Klasse, Superklassen usw.
 Schaft man es nun, diese 4 Bytes im Speicher durch andere (valide) 4 Bytes auszutauschen, bekommt eine Instanz in Java eine ganz neue Identität verpasst. In diesem konkreten Beispiel würde eine Instanz von ClassA zu einem Typ von ClassB werden.
 
