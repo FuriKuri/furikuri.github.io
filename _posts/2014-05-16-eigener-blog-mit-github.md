@@ -3,8 +3,7 @@ layout: post
 title: "Eigener Blog mit Github"
 category: posts
 ---
-Dieser Blog wird komplett kostenlos über Github verwaltet und gehostet. Vielleicht ist das auch für andere interessant.
-
+Dieser Blog wird komplett kostenlos über Github verwaltet und gehostet. Vielleicht ist das auch für andere interessant. Deswegen folgt hier eine knappe kompakte Anleitung, wie mit Jekyll und GitHub innerhalb von ein paar Minuten ein eigener Blog online gestellt werden kann.
 
 GitHub
 
