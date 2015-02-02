@@ -4,7 +4,7 @@ title: About
 ---
 
 Hi, I'm Theo Pack<br/>
-Software Developer at Cologne Intelligence<br/>
+Software Developer<br/>
 Live in Cologne - Germany<br/>
 <br/>
 
