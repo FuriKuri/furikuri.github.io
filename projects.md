@@ -5,6 +5,18 @@ title: "Projects"
 
 <ul class="posts">
   <li class="post">
+    <a href="https://github.com/FuriKuri/woodpecker" class="post-link">
+      <h2 class="post-title" title="notes">
+        woodpecker<br />
+      </h2>
+      <span class="meta">
+        Node.JS
+      </span>
+    </a>
+    A lightweight dependency injection framework
+  </li>
+
+  <li class="post">
     <a href="https://github.com/FuriKuri/notes" class="post-link">
       <h2 class="post-title" title="notes">
         notes<br />
