@@ -16,6 +16,8 @@ title: "Projects"
     A lightweight dependency injection framework
   </li>
 
+  <hr/>
+
   <li class="post">
     <a href="https://github.com/FuriKuri/notes" class="post-link">
       <h2 class="post-title" title="notes">
