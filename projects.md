@@ -33,6 +33,19 @@ title: "Projects"
   <hr/>
 
   <li class="post">
+    <a href="https://github.com/FuriKuri/XMPP-REPL" class="post-link">
+      <h2 class="post-title" title="notes">
+        xmpp-repl<br />
+      </h2>
+      <span class="meta">
+        Clojure
+      </span>
+    </a>
+    Simple XMPP-Client for the Clojure-REPL.
+  </li>
+
+  <hr/>
+  <li class="post">
     <a href="https://github.com/FuriKuri/girlitz" class="post-link">
       <h2 class="post-title" title="girlitz">
         girlitz<br />
