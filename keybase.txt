@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/furikuri
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://furikuri.github.io
+  * I am furikuri (https://keybase.io/furikuri) on keybase.
+  * I have a public key with fingerprint E970 E978 5D4D 32D2 DFBF  3183 E8FB 4EAF A0A4 31F5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e970e9785d4d32d2dfbf3183e8fb4eafa0a431f5",
+            "host": "keybase.io",
+            "key_id": "e8fb4eafa0a431f5",
+            "kid": "01012ba4d98bf49e284d08204d49dd5abef72469fa6a066a5d805d7476556a59fb5d0a",
+            "uid": "90db81cdbb2ad3ff6b0be32a96811f19",
+            "username": "furikuri"
+        },
+        "service": {
+            "hostname": "furikuri.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432749028,
+    "expire_in": 157680000,
+    "prev": "3e87a14ab327bbea8ca003b81f8aea7affd00ed2bb7a64e7e828d0945632c22a",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIZAnicZZJriE1RFMfvxTCuhklCHjN1TJrhmvbZ57XPeH6QhkIS08yo2953733v
+Meac6zzGPBpEoeQDyivvzCfJowbDeA+aNGOG5gOiaJKIFNc72WfwhV2r3Vrrv357
+r9XqyBsciUVXz0l0Zms/DY/eu1EeRFbwwf1NEnFog1TWJNWwgYtbdoq5GdeyfalM
+YqYBhCGNqlSBFFJOuCIjhSFOVIY5BlhVZK5JcSnteGGFwBDssVLLETHhJCwacv7X
+1wwkgAxkSLBKTUS4ajKIVAoQBCpVTUo1TBg3oKqbHOsY6DrWKAIaNVRD1zThmZxo
+FGCBCwZwJqAEyUlKCMRU4VwngDAFYlNHssxlMxR6zLVxLRNqHrhWjTCpOS6JaJ2V
+ZOEIwk7+UZSmLD8dkN9dZVzHd5LOGpFP+37GKwvr/YZMWLCOkcQfVIJYNhXTFBV1
+zPUsx5bKZKFM+lbIllUFGqoJIIpLrD5juSxhhQrN0BEQJ3yH1QmkGLaBZRUToSeE
+YZTEACiiTY4wwwbmnALAKCTEwLrKDIYgosBUNV2BSQjD4Xhsre0INhT/xCnB9KyU
+jf3AZVLzzeurhkSiscjQnEHhQkRiw/P/rsmlhbmRnRUFVysL473nG0s+Psv2NjpX
+nt5aOgoE1+h9uXpuVeOb/h/rx7ed+LkNbs473fe65mjRjDcX7Jbi/GOjn7d3PxpU
+VWK9L81NL1pRefDomBNnWzddObx1Vm5btOXhtMWf91SdfHF919c556Z3px/03X3V
+3rGoMvgUvNs9v6D6SMHo8Xed9qbU1X0R91vtiIV7zO9uz4LO7J39eexr4bJDm73L
+q4Il2fkrP2zfMLFg3vJDbbe7bl+cear4ZebphGGZwp69U7yKHNS/tP6JPunMtebz
+G7dtH/f549lHdseX1XTkD3QAlbfENmbL0aRdrUO+39wyYvLxrpxR9UGkqDo2dUfs
+7djH+RWzfwHyZC2E
+=nmyz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/furikuri
+
+==================================================================
